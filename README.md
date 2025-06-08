@@ -1,5 +1,7 @@
 # USSEE
 Materials for USSEE Workshop on Teaching Ecological Economics
+
+
 <img width="190" alt="image" src="https://github.com/user-attachments/assets/46a4c281-c4dc-4880-8324-44e588cc3c5f" />
 
 
