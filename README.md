@@ -1,7 +1,7 @@
 # USSEE
 ## Materials for USSEE Workshop on Teaching Ecological Economics
 
-![alt text](img/Ashley_HS-2_excut.jpg)
+![alt text](img/Ashley_HS-2_excut.jpg) { width: 200px; }
 Bio: 
 I am an environmental economist very passionate about integrating the benefits of functioning ecosystems into policy decisions to support effective conservation efforts. I am currently an Assistant Professor at University of Hawaiʻi at Mānoa in the Department of Natural Resources and Environmental Management focusing on Hawaiʻi’s ecosystems and communities. I am active on social media platforms such as TikTok & Instagram @iguanalow. I strongly believe if we are not communicating our science/research on online platforms, the social conversation is happening without us. 
 
@@ -19,7 +19,7 @@ Small‑group/individual task: interpret an EJScreen output tile for a real neig
 
 2.  Add a Map Social Indicators : Low Income, People of Color, or Education
 
-![alt text](img/lowincome.png)
+![alt text](img/lowincome.png){ width: 200px; }
 
 
 3. Climate Change: Extreme Heat click on census tract to explore how many days have been over 90 across years.
@@ -51,4 +51,4 @@ Small‑group/individual task: interpret an EJScreen output tile for a real neig
 
 3. How close was measurement to home or current residents?
 
-4. Has max days above 90 grown in your area?
+4. Has the number of days above 90 grown in your area?
