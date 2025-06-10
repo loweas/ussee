@@ -1,5 +1,5 @@
 # USSEE
-##Materials for USSEE Workshop on Teaching Ecological Economics
+## Materials for USSEE Workshop on Teaching Ecological Economics
 
 <center>
 <img width="190" alt="image" src="https://github.com/user-attachments/assets/46a4c281-c4dc-4880-8324-44e588cc3c5f" /></center>
@@ -30,8 +30,11 @@ Small‑group/individual task: interpret an EJScreen output tile for a real neig
 <img width="795" alt="Screenshot 2025-06-09 at 6 02 04 PM" src="https://github.com/user-attachments/assets/65cafaf3-6412-4b80-a218-31c430d2ba43" />
 
 5. Designated Disadvantage Communities (Justice40 & EPA IRA)
-Using Tools ( Measure, click Ruler) calculate distance to an EPA Regulated Facilities or TRI 
+   <img width="795" alt="Screenshot 2025-06-09 at 6 07 35 PM" src="https://github.com/user-attachments/assets/2c09bb01-6917-4d6b-83d2-31f9e7a22469" />
+   
+6. Using Tools ( Measure, click Ruler) calculate distance to an EPA Regulated Facilities or TRI 
 
+<img width="795" alt="Screenshot 2025-06-09 at 6 09 09 PM" src="https://github.com/user-attachments/assets/feefcac5-cae3-4622-acd8-18c3693e185a" />
 
 
 
