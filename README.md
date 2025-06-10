@@ -4,11 +4,13 @@
 
 <img src="img/left.jpg" alt="" width="400"/><img src="img/Ashley_HS-2_excut.jpg" alt="" width="150"/>
 
-Bio: 
+### Bio: 
+
 I am an environmental economist very passionate about integrating the benefits of functioning ecosystems into policy decisions to support effective conservation efforts. I am currently an Assistant Professor at University of Hawaiʻi at Mānoa in the Department of Natural Resources and Environmental Management focusing on Hawaiʻi’s ecosystems and communities. I am active on social media platforms such as TikTok & Instagram @iguanalow. I strongly believe if we are not communicating our science/research on online platforms, the social conversation is happening without us. 
 
 
-Workshop:
+### Workshop:
+
 My workshop will focus on how I teach quantifying environmental justice (EJ). I will explore the historical context of the EJ movement that spawned research into the relationship of pollution and social economic indicators. We will then dive into the importance of understanding what is being measured and what the number means. I will show how EJ requires moving beyond neoclassical economic assumptions of what is occurring at the margins. Lastly, we will interactively discuss on how researchers are adapting to the current political climate, including navigating alternative data repositories as federal environmental data becomes less accessible. Slides, materials posted in folder.
 
 
