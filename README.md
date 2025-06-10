@@ -1,7 +1,8 @@
 # USSEE
 ## Materials for USSEE Workshop on Teaching Ecological Economics
 
-![alt text](img/Ashley_HS-2_excut.jpg) { width: 200px; }
+
+<img src="dimg/Ashley_HS-2_excut.jpg" alt="" width="200"/>
 Bio: 
 I am an environmental economist very passionate about integrating the benefits of functioning ecosystems into policy decisions to support effective conservation efforts. I am currently an Assistant Professor at University of Hawaiʻi at Mānoa in the Department of Natural Resources and Environmental Management focusing on Hawaiʻi’s ecosystems and communities. I am active on social media platforms such as TikTok & Instagram @iguanalow. I strongly believe if we are not communicating our science/research on online platforms, the social conversation is happening without us. 
 
@@ -19,7 +20,7 @@ Small‑group/individual task: interpret an EJScreen output tile for a real neig
 
 2.  Add a Map Social Indicators : Low Income, People of Color, or Education
 
-![alt text](img/lowincome.png){ width: 50px; }
+![alt text](img/lowincome.png)
 
 
 3. Climate Change: Extreme Heat click on census tract to explore how many days have been over 90 across years.
