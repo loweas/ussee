@@ -54,13 +54,12 @@ This is an unofficial copy of EJScreen hosted by the Public Environmental Data P
 
 ## Reflection Questions
 
-1. Does your local knowledge reflect the data shown?
+1. Does your local knowledge reflect the data shown for disadvantaged communities? (Did Justice40 or EPA EJ Screen)
 
-2. Did Justice40 or EPA EJ Screen Identify areas make sense with your local knowledge? (notice different scale for these two files)
+2. Was reported hazardous material or TRI closer than you original assumed? 
 
-3. How close was measurement to home or current residents?
+3. Has the number of days above 90 grown in your area?
 
-4. Has the number of days above 90 grown in your area?
 
 
 ## List of Repositories
@@ -70,21 +69,19 @@ As governmental data disappears from websites it is important to be aware of pre
 1. <https://web.archive.org/> 
      Helpful in viewing websites changing overtime. It can be lagging and you need to know what website that has removed the information when they removed and how to find it.
 
-## December 31st 2024                          
+### EPA Website December 31st 2024                          
 
 <img src="img/epa1.png" alt="" width="400"/>
 
-## Jun 9th 2025  
+### EPA Website Jun 9th 2025  
 
 <img src="img/epa.png" alt="" width="400"/>
-
 
 
 2. <https://screening-tools.com/> 
     Public Environmental Data Partners. The are currently reconstructing websites and datasets being removed all in one spot
 
 <img src="img/publicenvirdata.png" alt="" width="300"/>
-
 
 
 3. <https://github.com/edgi-govdata-archiving> 
