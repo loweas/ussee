@@ -72,11 +72,11 @@ As governmental data disappears from websites it is important to be aware of pre
 
 ## December 31st 2024                          
 
-<img src="img/epa1.png" alt="" width="300"/>
+<img src="img/epa1.png" alt="" width="400"/>
 
 ## Jun 9th 2025  
 
-<img src="img/epa.png" alt="" width="300"/>
+<img src="img/epa.png" alt="" width="400"/>
 
 
 
