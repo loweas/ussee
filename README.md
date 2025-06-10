@@ -9,11 +9,13 @@ I am an environmental economist very passionate about integrating the benefits o
 
 
 Workshop:
-My workshop will focus on how I teach quantifying environmental justice (EJ). I will explore the historical context of the EJ movement that spawned research into the relationship of pollution and social economic indicators. We will then dive into the importance of understanding what is being measured and what the number means. I will show how EJ requires moving beyond neoclassical economic assumptions of what is occurring at the margins. Lastly, we will interactively discuss on how researchers are adapting to the current political climate, including navigating alternative data repositories as federal environmental data becomes less accessible. Slides, materials and notes will be posted for workshop at https://github.com/loweas/ussee.
+My workshop will focus on how I teach quantifying environmental justice (EJ). I will explore the historical context of the EJ movement that spawned research into the relationship of pollution and social economic indicators. We will then dive into the importance of understanding what is being measured and what the number means. I will show how EJ requires moving beyond neoclassical economic assumptions of what is occurring at the margins. Lastly, we will interactively discuss on how researchers are adapting to the current political climate, including navigating alternative data repositories as federal environmental data becomes less accessible. Slides, materials posted in folder.
 
 
 ## Case Study Mini‑Lab
 Small‑group/individual task: interpret an EJScreen output tile for a real neighborhood.
+
+<https://pedp-ejscreen.azurewebsites.net/>
 
 1. Find your home (childhood or current)
 
