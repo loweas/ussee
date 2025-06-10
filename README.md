@@ -64,7 +64,7 @@ This is an unofficial copy of EJScreen hosted by the Public Environmental Data P
 
 ## List of Repositories
 
-As governmental data disappears from websites it is important to be aware of previous efforts in climate, environmental justice and more. Storing data on your harddrive is one way but it is also important to know where to negative to larger efforts of archiving datasets.
+As governmental data becomes increasingly inaccessible or disappears from public websites, it's important to be aware of past efforts in climate and environmental justice research. While storing data locally (e.g., on your hard drive) offers one safeguard, it is equally important to connect with broader initiatives that are actively archiving and preserving critical datasets.
 
 1. <https://web.archive.org/> 
      Helpful in viewing websites changing overtime. It can be lagging and you need to know what website that has removed the information when they removed and how to find it.
