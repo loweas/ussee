@@ -69,14 +69,15 @@ As governmental data disappears from websites it is important to be aware of pre
 
 1. <https://web.archive.org/> -- Helpful in viewing websites changing overtime. It can be lagging and you need to know what website that has removed the information when they removed and how to find it.
 
+## December 31st 2024                           Jun 9th 2025 
 
-<img src="img/epa1.png" alt="" width="200"/><img src="img/epa.png" alt="" width="200"/>
+<img src="img/epa1.png" alt="" width="300"/><img src="img/epa.png" alt="" width="300"/>
 
 
 
 2. <https://screening-tools.com/> Public Environmental Data Partners. The are currently reconstructing websites and datasets being removed all in one spot
 
-<img src="img/publicenvirdata.png" alt="" width="200"/>
+<img src="img/publicenvirdata.png" alt="" width="300"/>
 
 
 
@@ -84,4 +85,4 @@ As governmental data disappears from websites it is important to be aware of pre
 
 4. <https://edgi-govdata-archiving.github.io/j40-cejst-2/en/#3/33.47/-97.5>  Website creating Climate and Economic Justice Screening Tool for Justice40
 
-<img src="img/CJSET.png" alt="" width="200"/>
+<img src="img/CJSET.png" alt="" width="300"/>
