@@ -21,18 +21,24 @@ Small‑group/individual task: interpret an EJScreen output tile for a real neig
 
 
 2.  Add a Map Social Indicators : Low Income, People of Color, or Education
+
 <img width="795" alt="Screenshot 2025-06-09 at 5 59 49 PM" src="https://github.com/user-attachments/assets/fd11ffde-5f36-4694-b29c-f5d75bf395b2" />
 
 3. Climate Change: Extreme Heat click on census tract to explore how many days have been over 90 across years.
+
 <img width="795" alt="Screenshot 2025-06-09 at 6 01 04 PM" src="https://github.com/user-attachments/assets/1f3806da-d203-4c7c-a796-f95453acf723" />
 
 4. Navigate to Places add EPA Regulated Facilities, Explore Regulated Facilitates, Add Toxic Release
+
+   
 <img width="795" alt="Screenshot 2025-06-09 at 6 02 04 PM" src="https://github.com/user-attachments/assets/65cafaf3-6412-4b80-a218-31c430d2ba43" />
 
-5. Designated Disadvantage Communities (Justice40 & EPA IRA)
-   <img width="795" alt="Screenshot 2025-06-09 at 6 07 35 PM" src="https://github.com/user-attachments/assets/2c09bb01-6917-4d6b-83d2-31f9e7a22469" />
+6. Designated Disadvantage Communities (Justice40 & EPA IRA)
+
+<img width="795" alt="Screenshot 2025-06-09 at 6 07 35 PM" src="https://github.com/user-attachments/assets/2c09bb01-6917-4d6b-83d2-31f9e7a22469" />
+
    
-6. Using Tools ( Measure, click Ruler) calculate distance to an EPA Regulated Facilities or TRI 
+7. Using Tools ( Measure, click Ruler) calculate distance to an EPA Regulated Facilities or TRI 
 
 <img width="795" alt="Screenshot 2025-06-09 at 6 09 09 PM" src="https://github.com/user-attachments/assets/feefcac5-cae3-4622-acd8-18c3693e185a" />
 
