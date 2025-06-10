@@ -19,7 +19,7 @@ Small‑group/individual task: interpret an EJScreen output tile for a real neig
 
 2.  Add a Map Social Indicators : Low Income, People of Color, or Education
 
-![alt text](img/lowincome.png){ width: 200px; }
+![alt text](img/lowincome.png){ width: 50px; }
 
 
 3. Climate Change: Extreme Heat click on census tract to explore how many days have been over 90 across years.
