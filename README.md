@@ -19,6 +19,9 @@ Small‑group/individual task: interpret an EJScreen output tile for a real neig
 
 <https://pedp-ejscreen.azurewebsites.net/>
 
+This is an unofficial copy of EJScreen hosted by the Public Environmental Data Partners. 
+
+
 1. Find your home (childhood or current)
 
 
@@ -58,3 +61,12 @@ Small‑group/individual task: interpret an EJScreen output tile for a real neig
 3. How close was measurement to home or current residents?
 
 4. Has the number of days above 90 grown in your area?
+
+
+## List of Repositories
+
+As governmental data disappears from websites it is important to be aware of previous efforts in climate, environmental justice and more. Storing data on your harddrive is one way but it is also important to know where to negative to larger efforts of archiving datasets.
+
+1. <https://web.archive.org/> -- Helpful in archiving websites. Can be lagging 
+2. <https://edgi-govdata-archiving.github.io/j40-cejst-2/en/#3/33.47/-97.5>  Environmental Data and Governance Initiative
+3. <https://screening-tools.com/> Public Environmental Data Partners
