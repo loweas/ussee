@@ -67,7 +67,14 @@ This is an unofficial copy of EJScreen hosted by the Public Environmental Data P
 
 As governmental data disappears from websites it is important to be aware of previous efforts in climate, environmental justice and more. Storing data on your harddrive is one way but it is also important to know where to negative to larger efforts of archiving datasets.
 
-1. <https://web.archive.org/> -- Helpful in archiving websites. Can be lagging 
-2. <https://screening-tools.com/> Public Environmental Data Partners
-3. <https://github.com/edgi-govdata-archiving> Environmental Data and Governance Initiative
+1. <https://web.archive.org/> -- Helpful in viewing websites changing overtime. It can be lagging and you need to know what website that has removed the information when they removed and how to find it.
+![alt text](img/epa.png) ![alt text](img/epa1.png)
+
+2. <https://screening-tools.com/> Public Environmental Data Partners. The are currently reconstructing websites and datasets being removed all in one spot
+
+![alt text](img/publicenvirdata.png)
+
+3. <https://github.com/edgi-govdata-archiving> Environmental Data and Governance Initiative. Github where many of the EDGI preserves its datasets.
+
 4. <https://edgi-govdata-archiving.github.io/j40-cejst-2/en/#3/33.47/-97.5>  Website creating Climate and Economic Justice Screening Tool for Justice40
+![alt text](img/CJSET.png)
